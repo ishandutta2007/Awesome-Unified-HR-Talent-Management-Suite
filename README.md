@@ -4,11 +4,13 @@
 
 ![Awesome Unified HR and Talent Management Suite Banner](assets/banner.svg)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Unified-HR-Talent-Management-Suite/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Unified-HR-Talent-Management-Suite)
 [![Topics](https://img.shields.io/badge/Focus-HCM%20%7C%20HRMS%20%7C%20Talent%20Suite-blueviolet.svg)](#-table-of-contents)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <p align="center">
   <b>A comprehensive, SEO-optimized curated list of top Unified HR, Human Capital Management (HCM), and Talent Management Suite platforms.</b><br/>
@@ -27,6 +29,8 @@
 - [🔓 Open-Source Software](#-open-source-software)
 - [📊 Feature Comparison Matrix](#-feature-comparison-matrix)
 - [🎯 Key Evaluation Criteria](#-key-evaluation-criteria)
+- [💖 Support & Community](#-support--community)
+- [📈 Star History](#-star-history)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -120,6 +124,29 @@ When evaluating unified HR and talent platforms, consider these crucial factors:
 3. **Total Cost of Ownership (TCO) 💵:** Enterprise SaaS contracts often carry significant implementation fees (often 50%–150% of year-one software licensing). Open-source solutions eliminate licensing fees but require cloud hosting and internal maintenance.
 4. **Data Privacy & Sovereignty 🔒:** Regulated industries often require on-premise or sovereign cloud hosting (e.g., German federal or defense environments). Solutions like Frappe HR, Horilla, and Odoo grant full ownership of employee PII.
 5. **AI Augmentation 🤖:** Modern platforms incorporate generative AI for automated job requisition authoring, semantic candidate resume matching, and continuous talent flight risk prediction.
+
+---
+
+## 💖 Support & Community
+
+Thank you for exploring the **Awesome Unified HR & Talent Management Suite**! 🎉
+
+If you find this curated collection helpful for your team, organization, or research:
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork it** to customize and keep your own reference list.
+- 📢 **Share it** on LinkedIn, Twitter/X, Reddit, or with your HR & engineering colleagues.
+
+If you would like to support the ongoing research and maintenance of this and other open-source awesome lists, consider buying a coffee via the Sponsor Dashboard:
+
+<a href="https://github.com/sponsors/ishandutta2007">
+  <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors" alt="Sponsor on GitHub" />
+</a>
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Unified-HR-Talent-Management-Suite&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Unified-HR-Talent-Management-Suite&type=date&legend=top-left)
 
 ---
 
