@@ -162,7 +162,7 @@ Contributions are warmly welcomed! To propose a new open-source platform or upda
 
 1. 🍴 Fork this repository.
 2. 🌿 Create a descriptive feature branch (`git checkout -b feature/add-new-tool`).
-3. 📝 Add your tool with verified pricing, GitHub Stars_Counts, and license information.
+3. 📝 Add your tool with verified pricing, GitHub_Stars_Counts, and license information.
 4. 🚀 Push your branch and open a Pull Request.
 
 Please ensure added open-source projects are actively maintained (commits or releases within the past 12 months).
