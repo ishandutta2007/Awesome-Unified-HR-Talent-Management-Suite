@@ -1,25 +1,31 @@
-# Awesome Unified HR & Talent Management Suite 🚀
+<p align="center">
+  <img src="./assets/banner.svg" alt="Awesome Unified HR and Talent Management Suite Banner" width="100%">
+</p>
 
-<div align="center">
+<h1 align="center">🚀 Awesome Unified HR &amp; Talent Management Suite 🚀</h1>
 
-![Awesome Unified HR and Talent Management Suite Banner](assets/banner.svg)
+<p align="center">
+  <strong>A comprehensive curated directory of enterprise HCM suites, core HRMS software, and open-source talent platforms.</strong>
+</p>
 
-<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Unified-HR-Talent-Management-Suite/pulls)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Unified-HR-Talent-Management-Suite)
-[![Topics](https://img.shields.io/badge/Focus-HCM%20%7C%20HRMS%20%7C%20Talent%20Suite-blueviolet.svg)](#-table-of-contents)
-<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List"/></a>
+  <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg" alt="License: CC0-1.0"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Unified-HR-Talent-Management-Suite/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Unified-HR-Talent-Management-Suite"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance"/></a>
+  <a href="#-table-of-contents"><img src="https://img.shields.io/badge/Focus-HCM%20%7C%20HRMS%20%7C%20Talent%20Suite-blueviolet.svg" alt="Focus: HCM | HRMS | Talent Suite"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
 <p align="center">
   <b>A comprehensive, SEO-optimized curated list of top Unified HR, Human Capital Management (HCM), and Talent Management Suite platforms.</b><br/>
   Featuring commercial enterprise SaaS vendors ranked by scale, and production-grade self-hosted open-source software ranked by GitHub community adoption.
 </p>
 
-🌟 **Star this repository if you find it valuable!** 🌟
-
-</div>
+<p align="center">
+  🌟 <b>Star this repository if you find it valuable!</b> 🌟
+</p>
 
 ---
 
